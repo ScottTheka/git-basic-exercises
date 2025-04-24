@@ -1,0 +1,270 @@
+    1  git clone
+    2  mkdir git-basic-exercises
+    3  cd git-basic-exercises
+    4  Is -a
+    5  is -a
+    6  ls -a
+    7  git init
+    8  git status
+    9  touch README.MD
+   10  ls -a
+   11  git status
+   12  git log
+   13  git add README.md
+   14  gut statis
+   15  git status
+   16  echo ''# git basic exercises'' > README.md
+   17  git add README.md
+   18  git status
+   19  git commit -m
+   20  git commit
+   21  git config --global thekascott@gmail.com
+   22  git config --global Scott
+   23  git config --global ''scott''
+   24  mkdir git-basic-exercises
+   25  cd git-basic-exercises
+   26  ls -a
+   27  git init
+   28  is -a
+   29  ls -a
+   30  git status
+   31  git commit -m ''initial commit''
+   32  git commit README.md ''initial commit''
+   33  git add README.md
+   34  git commit
+   35  git config --global thekascott@gmail.com
+   36  git confit --global user.email thekascott@gmail.com
+   37  git congif --global user.email thekascott@gmail.com
+   38  git config --global user.email thekascott@gmail.com
+   39  git config --global user.name Scott
+   40  git commit
+   41  git status
+   42  git add git-basic-exercises
+   43  git add gitBasicExercises
+   44  git init
+   45  ls -a
+   46  touch README.md
+   47  git status
+   48  git add README.md
+   49  git commit -m ''initial commit''
+   50  git commit
+   51  git log
+   52  git commit README.md ''initial commit''
+   53  git commit -m
+   54  git add Scott
+   55  git add file_name
+   56  git add.
+   57  git commit -m''initial commit''
+   58  git add Scott.md
+   59  git add README.md
+   60  git add . 
+   61  git status
+   62  git commit -m''initial commit''
+   63  git commit -m'initial commit'
+   64  git log
+   65  q
+   66  exit
+   67  nano README.md
+   68  git status
+   69  git cd
+   70  cd git-basic-exercises
+   71  cat README.md
+   72  git status
+   73  git log
+   74  git commit -m'second commit'
+   75  git add .
+   76  git commit -m'second commit'
+   77  nano README.md
+   78  cat README.md
+   79  git status
+   80  git commit -m'second commit'
+   81  git commit -a'second commit'
+   82  git add .
+   83  git commit -m'second commit'
+   84  git status
+   85  nano README>md
+   86  cd git-basic-exercises
+   87  nano README.md
+   88  git add .
+   89  git commit -m'third commit'
+   90  git status
+   91  git log
+   92  q
+   93  git checkout [200~31a3e397fd62bef4f7568b4fb4b3f071e1f75a16
+   94  git branch
+   95  git branch milkshake-flavours
+   96  git checkout milkshake-flavours
+   97  nano milkshakes.md
+   98  git status
+   99  nano milkshake-flavours
+  100  git commit -m'added initial flavours'
+  101  git add .
+  102  git commit -m'added initial flavours'
+  103  git main
+  104  git checkout main
+  105  git checkout main
+  106  git branch
+  107  git switch
+  108  git  main
+  109  git fetch origin
+  110  git checkout master 
+  111  git branches
+  112  git branch
+  113  git checkout -b history
+  114  git branch
+  115  history.txt
+  116  history>history.txt
+  117  git add .
+  118  git commit -m'added history'
+  119  git milkshake-flavours
+  120  git milkshake-flavour
+  121  git checkout milkshake-flavours
+  122  git log
+  123  nano README.md
+  124  git checkout history
+  125  rm README.md
+  126  echo'booya;>README.md
+  127  git add .
+  128  q
+  129  git checkout history
+  130  exit
+  131  git checkout history
+  132  cd git-basic-exercises
+  133  git add. 
+  134  git add .
+  135  git commit -m'rewrote readme'
+  136  git checkout main
+  137  git checkout master 
+  138  git checkout master ls
+  139  git checkout master
+  140  ls
+  141  git log
+  142  git checkout milkshake-flavours
+  143  ls
+  144  git log
+  145  git checkout history
+  146  ls
+  147  git log
+  148  git checkout master 
+  149  git merge milkshake-flavours
+  150  ls
+  151  git checkout history
+  152  git checkout master git
+  153  git checkout master
+  154  git merge history
+  155  cd git-basic-exercises
+  156  git merge master 
+  157  git merge history
+  158  git add .
+  159  git commit -m
+  160  git checkout history
+  161  git add .
+  162  git commit -m
+  163  git merge master git merge master 
+  164  git merge master
+  165  cd git-basic-exercises
+  166  git checkout master
+  167  git remote add origin https://github.com/ScottTheka/git-basic-exercises
+  168  git push -u master
+  169  gut push -u origin master
+  170  git push -u origin master 
+  171  cd ../
+  172  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  173  cd a-repo-to-clone
+  174  git branch -a
+  175  git checkout a-branch-with-a-small-changes
+  176  git checkout a-branch-with-small-changes
+  177  git remote -v
+  178  git checkout git-basic-exercises
+  179  git master
+  180  git checkout master 
+  181  cd ../
+  182  cd
+  183  mkdir this-will-be-another-repo
+  184  cd this-will-be-another-repo
+  185  git log
+  186  ../
+  187  cd ../
+  188  git-basic-exercises
+  189  cd git-basic-exercises
+  190  touch ignore-me.db
+  191  nano .gitignore
+  192  mkdir large-directory-that-should-be-local-inly
+  193  cd large-directory-that-should-be-local-only
+  194  cd
+  195  cd large-directory-that-should-be-local-only
+  196  mkdir large-directory-that-should-be-local-only
+  197  cd large-directory-that-should-be-local-only
+  198  cd
+  199  git status
+  200  nano .gitignore
+  201  cat .gitignore
+  202  nano .gitignore
+  203  cat .gitignore
+  204  git add .gitignore
+  205  git add .
+  206  masterq
+  207  git master
+  208  cd master
+  209  cd git master
+  210  master
+  211  git commit -m'add .gitignore to exclude local-only files and directories
+  212  q
+  213  q
+  214  fd
+  215  exot
+  216  q
+  217  q
+  218  q
+  219  q
+  220  q
+  221  q
+  222  q
+  223  q
+  224  cd git-basic-exercises
+  225  git add .gitignore
+  226  git commit -m'add .gitignore to exclude local-only files and directories
+  227  q
+  228  cd git-basic-exercises
+  229  git commit -m'add .gitignore to exclude local-only files and directories
+  230  q
+  231  cd git-basic-exercises
+  232  git commit -m'add .gitignore to exclude local-only files and directories'
+  233  git add .
+  234  git commit -m'add .gitignore to exclude local-only files and directories'
+  235  git push
+  236  q
+  237  exit
+  238  git git config --global user.name "Scott Theka"
+  239  git config --global user.name "Scott Theka"
+  240  git config --global user.email "thekascott@gmail.com"
+  241  git config --global --list
+  242  mkdir git-basic-exercises
+  243  ls
+  244  rm -rf git-basic-exercises
+  245  mkdir git-bacis-exercises
+  246  cd git-basic-exercises
+  247  rm -rf git-bacis-exercises
+  248  mkdir git-basic-exercises
+  249  cd git-basic-exercises
+  250  git init
+  251  touch README.md
+  252  git add
+  253  git add.
+  254  git add .
+  255  git commit -m 'initial commit'
+  256  nano README.md
+  257  git commit -m 'second commit'
+  258  git add .
+  259  git commit -m 'second commit'
+  260  nano README.md
+  261  git add .
+  262  git commit -m 'third commit'
+  263  git log
+  264  git checkout -b milkshake-flavours
+  265  nano milkshakes.md
+  266  git add .
+  267  git commit -m 'added initial flavours'
+  268  git checkout master 
+  269  git checkout -b history
+  270  history>history.txt
